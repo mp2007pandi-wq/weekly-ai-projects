@@ -1,0 +1,1 @@
+Large language models generate text by predicting the next token. They can hallucinate facts when they lack knowledge. Grounding the model in retrieved documents improves accuracy. Fine-tuning changes model weights, while RAG supplies knowledge at query time, which is cheaper and easier to update.

@@ -1,0 +1,1 @@
+RAG systems are evaluated on retrieval quality and answer quality. Retrieval metrics include recall at k and mean reciprocal rank. Answer metrics check faithfulness to the retrieved context and relevance to the question. Citations make faithfulness easier to verify.

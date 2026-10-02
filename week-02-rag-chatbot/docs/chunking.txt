@@ -1,0 +1,1 @@
+Chunking splits documents into smaller passages before indexing. Chunks that are too large dilute relevance, and chunks that are too small lose context. Overlap between neighbouring chunks keeps sentences from being cut apart. Typical sizes are 200 to 500 tokens with 10 to 20 percent overlap.
