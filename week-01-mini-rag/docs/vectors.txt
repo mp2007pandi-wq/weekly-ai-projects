@@ -1,0 +1,1 @@
+Vector databases store embeddings, which are numeric representations of text. Similar meanings lie close together, so nearest-neighbour search finds semantically related chunks. Popular options include FAISS, Chroma and Pinecone. Classic keyword methods such as TF-IDF and BM25 are simpler and still work well for small corpora.

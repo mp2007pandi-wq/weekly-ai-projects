@@ -1,0 +1,3 @@
+Retrieval-Augmented Generation (RAG) combines a retriever with a language model. The retriever finds relevant passages from a knowledge base, and the model uses them as context to produce grounded answers. RAG reduces hallucinations and lets models use fresh or private data without retraining.
+
+A typical RAG pipeline has four steps: ingest documents, split them into chunks, index the chunks, and at query time retrieve the top matches and pass them to the model.
